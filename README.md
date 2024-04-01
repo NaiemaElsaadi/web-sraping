@@ -140,16 +140,7 @@ Special thanks to the Web Mining and Applied NLP (44-620) course instructor Dr. 
 ## Reference
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start
 https://github.com/denisecase/620-mod6-web-scraping
+https://github.com/denisecase/620-mod6-web-scraping/blob/main/web_scraping.ipynb
 
 
-## Rubric
-
-* (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
-* (Question 2) Article text is correct: 1 pt
-* (Question 3) Correct (or equivalent in the case of multiple tokens with same frequency) tokens printed: 1 pt
-* (Question 4) Correct (or equivalent in the case of multiple lemmas with same frequency) lemmas printed: 1 pt
-* (Question 5) Correct scores for first sentence printed: 2 pts (1 / function)
-* (Question 6) Histogram shown with appropriate labelling: 1 pt
-* (Question 7) Histogram shown with appropriate labelling: 1 pt
-* (Question 8) Thoughtful answer provided: 1 pt
 
